@@ -4,7 +4,7 @@ Greenden is a modern, responsive interior plant website designed using HTML and 
 
 # Features :
 
- Custom Logo for branding
+. Custom Logo for branding
  Responsive Design that works seamlessly across devices
  Homepage with a clean hero section and smooth transitions
  Product Page showcasing plants using a CSS Grid layout
