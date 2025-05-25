@@ -13,14 +13,13 @@ Greenden is a modern, responsive interior plant website designed using HTML and 
 * Hover & Transition Animations for an interactive experience
 
 # Pages Included :
-
- index.html - Home page
- products.html - Product showcase page
- contact.html - Contact form page
+* index.html - Home page
+* products.html - Product showcase page
+* contact.html - Contact form page
 
 # Technologies Used :
 
- HTML5
- Tailwind CSS
- CSS Grid & Flexbox
- Basic CSS Animations
+* HTML5
+* Tailwind CSS
+* CSS Grid & Flexbox
+* Basic CSS Animations
